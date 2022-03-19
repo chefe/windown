@@ -3,7 +3,11 @@ A script to download the latest windows iso from the official microsoft servers.
 
 ## Usage
 ```
-$ ./download.sh
+# Download win10 iso
+$ ./download.sh 10
+
+# Download win11 iso
+$ ./download.sh 11
 ```
 
 ## Dependencies
